@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751597808 source:c:\users\niko vanetti\descargas\jose_sanchez_pm_2025_c2\códigos\programa propio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
